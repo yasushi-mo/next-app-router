@@ -24,7 +24,5 @@ export default function ClientSideRendering() {
 
 async function fetcher() {
   const response = await fetch(SAMPLE_API_ENDPOINT);
-  const randomJoke = await response.json();
-
-  return randomJoke;
+  return await response.json();
 }

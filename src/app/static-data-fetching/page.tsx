@@ -27,7 +27,6 @@ export async function getRandomJoke(): Promise<RandomJoke> {
   const response = await fetch(SAMPLE_API_ENDPOINT, {
     next: { revalidate: 10 },
   });
-  const randomJoke = await response.json();
 
-  return randomJoke;
+  return await response.json();
 }
