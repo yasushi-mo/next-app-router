@@ -25,6 +25,7 @@
     "typescript": "5.1.6"
   },
   "devDependencies": {
+    "eslint-plugin-jsx-a11y": "^6.8.0",
     "eslint-plugin-sonarjs": "^0.25.1"
   }
 }
