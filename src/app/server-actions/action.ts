@@ -11,3 +11,8 @@ export async function addTask(data: FormData) {
     revalidatePath("/server-actions/client-component");
   }
 }
+
+export async function getRandomJoke() {
+  const res = await fetch("https://official-joke-api.appspot.com/random_joke");
+  return await res.json();
+}
