@@ -3,7 +3,6 @@
 import { addTask } from "../action";
 
 export default function ClientComponent({ tasks }: { tasks: string[] }) {
-  console.log("🚀 ~ ClientComponent ~ tasks:", tasks);
   return (
     <div>
       <form action={addTask}>
