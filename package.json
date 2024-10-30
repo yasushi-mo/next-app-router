@@ -30,6 +30,7 @@
     "eslint-config-next": "14.2.13",
     "eslint-plugin-jsx-a11y": "^6.10.0",
     "eslint-plugin-sonarjs": "^2.0.2",
+    "msw": "^2.5.2",
     "typescript": "5.5.4"
   },
   "volta": {
