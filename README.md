@@ -30,6 +30,8 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
 ## Articles
+
 - [Next.js 13.4 App Router のレンダリング実装方法](https://qiita.com/Yasushi-Mo/items/837a8c110a77d58b2d44)
 - [Next.js Pages Router と App Router のルーティング](https://qiita.com/Yasushi-Mo/items/865a8d6e1a063058d702)
 - [【Playwright】Next.js App Router で Playwright を利用する](https://qiita.com/Yasushi-Mo/items/a886118e8c166933f066)
+- [【Next.js】Route Handlers 概要](https://qiita.com/Yasushi-Mo/items/f84f270ee25240e1caaf)
