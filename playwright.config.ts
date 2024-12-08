@@ -31,7 +31,10 @@ export default defineConfig({
     trace: "on-first-retry",
 
     /** Record video for each test */
-    video: "on",
+    video: {
+      mode: "on",
+      size: { width: 600, height: 400 },
+    },
   },
 
   /* Configure projects for major browsers */
