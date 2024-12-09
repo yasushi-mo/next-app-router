@@ -36,3 +36,4 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 - [【Next.js】Route Handlers 概要](https://qiita.com/Yasushi-Mo/items/f84f270ee25240e1caaf)
 - [【Playwright】Next.js App Router で Playwright を利用する](https://qiita.com/Yasushi-Mo/items/a886118e8c166933f066)
 - [【Playwright】API の Mock を導入する](https://qiita.com/Yasushi-Mo/items/1037f721a9289557c82f)
+- [【Playwright】テスト実行時の動画を取得する](https://qiita.com/Yasushi-Mo/items/7abe2631793c9eec8c38)
